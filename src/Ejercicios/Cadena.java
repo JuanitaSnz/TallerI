@@ -69,6 +69,7 @@ public class Cadena {
   
   public static void main(String[] args){
   Scanner sc = new Scanner(System.in);
+    // agregar un comentario de nuevo
 //  String cadena=sc.nextLine();
 //  System.out.println(Cadena.NombrePropio(cadena));
 //  String cadena1 = sc.nextLine();
